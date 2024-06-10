@@ -25,7 +25,7 @@ The rarer the guess, the lower the score.
 
 The lower the score, the better.
 
-![GeoGrid Board](image.png)
+![GeoGrid Board](GeoGridBoard.png)
 *GeoGrid Board in June 10th*
 
 ### How to use the solver
@@ -78,7 +78,7 @@ All categories (columns) in world_data.csv[^1] in order of appearance:
 ### Result
 That was my game board in June 10th:
 
-![GeoGrid Board Solved](image-1.png)
+![GeoGrid Board Solved](GeoGridBoardSolved.png)
 *GeoGrid board solved*
 
 This code does not choose the best country to guess, it just lists all countries in the chosen categories.
