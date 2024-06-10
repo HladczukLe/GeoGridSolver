@@ -75,6 +75,8 @@ All categories (columns) in world_data.csv[^1] in order of appearance:
 -  Nuclear Weapons
 -  Top 20 Tourist Arrivals
 
+For more informations about categories go to the [official website](https://www.geogridgame.com/) and click the 📔 emoji for help with a category
+
 ### Result
 That was my game board in June 10th:
 
