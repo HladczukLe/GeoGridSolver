@@ -45,10 +45,12 @@ All categories (columns) in world_data.csv[^1] in order of appearance:
 -  Region
 -  Population Country
 -  Capital
+-  Capital most pop (says whether the capital is the most populous city (Y/N))
 -  Population Capital
 -  HDI
 -  Area (km2)
 -  Population Density
+-  Number of borders
 -  GDP per capita
 -  Olympic Medals
 -  Former USSR     
@@ -60,7 +62,7 @@ All categories (columns) in world_data.csv[^1] in order of appearance:
 -  Played in Men's FIFA World Cup
 -  Commonwealth Member
 -  Never Won an Olympic Medal
--  Coastal Distance[^2].
+-  Coastal Distance. (Over or under specified length of coastline or if is a landlocked country)
 -  Island Nation
 -  Star in Flag 
 -  Won Men's FIFA World Cup
@@ -85,6 +87,4 @@ That was my game board in June 10th:
 
 This code does not choose the best country to guess, it just lists all countries in the chosen categories.
 
-[^1]: There are some categories unavailable in database (example: Flag with color, Borders countries)
-
-[^2]: Some countries "Landlocked" are wrong, pay attention.
+[^1]: There are some categories unavailable in database (example: Flag with color)
