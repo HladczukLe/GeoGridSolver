@@ -48,7 +48,7 @@ Open the game and change the categories into the code, then you choose a country
 All categories (columns) in world_data.csv[^1] in order of appearance:
 
 - Country
-- Region
+- Region[^2]
 - Population Country
 - Capital
 - Capital most pop (says whether the capital is the most populous city (Y/N))
@@ -95,3 +95,23 @@ That was my game board in June 10th:
 This code does not choose the best country to guess, it just lists all countries in the chosen categories.
 
 [^1]: There are some categories unavailable in database (example: Flag with color)
+
+[^2]: Regions avaible and countries count:
+
+    Caribbean          13
+    Central Africa      7
+    Central America     7
+    Central Asia        4
+    East Africa        19
+    East Asia           6
+    Europe             44
+    Europe/Asia         7
+    Middle East        14
+    North Africa        6
+    North America       3
+    Oceania            14
+    South America      13
+    South Asia          9
+    Southeast Asia     12
+    Southern Africa     9
+    West Africa        16
