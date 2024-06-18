@@ -1,204 +1,204 @@
 Country;Region;Population Country;Capital;Population Capital;Capital most pop;HDI;Area (km2);Population Density;Number of borders;GDP per capita;Olympic Medals;Former USSR;Flag with Coat of Arms;Flag with Animal;Coastline on the Mediterranean;Hosted Olympics;Hosted Men's FIFA World Cup;Played in Men's FIFA World Cup;Commonwealth Member;Never Won an Olympic Medal;Coastal Distance (km);Island Nation;Star in Flag;Won Men's FIFA World Cup;EU Member;Flag with Only Red, White, and Blue;Drives on the Left;50+ Skyscrapers;Top 20 Obesity Rate;Alcohol Prohibition;Top 20 Alcohol Consumption;Top 20 Chocolate Consumption;Nuclear Weapons;Top 20 Tourist Arrivals
-Afghanistan;South Asia;38928346;Kabul;3678034;Yes;0.511;65223;60;6;2065;0;No;Yes;Yes;No;No;No;No;No;Yes;Landlocked;No;No;No;No;No;No;No;No;Yes;No;No;No;No
+Afghanistan;South Asia;38928946;Kabul;4273156;Yes;0.511;65223;60;6;2065;0;No;Yes;Yes;No;No;No;No;No;Yes;Landlocked;No;No;No;No;No;No;No;No;Yes;No;No;No;No
 Albania;Europe;2877797;Tirana;418495;Yes;0.795;28748;100.1;4;5373;8;No;Yes;No;Yes;No;No;Yes;No;No;362;No;Yes;No;No;No;No;No;No;No;No;No;No;No
-Algeria;North Africa;43851044;Algiers;2698828;Yes;0.745;2381741;18.4;7;11430;17;No;Yes;Yes;Yes;No;No;Yes;No;No;998;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No
+Algeria;North Africa;43851444;Algiers;2698828;Yes;0.745;2381741;18.4;7;11430;17;No;Yes;Yes;Yes;No;No;Yes;No;No;998;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No
 Andorra;Europe;77265;Andorra la Vella;22256;Yes;0.858;467;165.4;2;49990;0;No;Yes;No;No;No;No;No;No;Yes;Landlocked;No;No;No;No;No;No;No;No;No;No;No;No;No
-Angola;Southern Africa;32866272;Luanda;3119027;Yes;0.581;1246700;26.4;5;4100;0;No;Yes;Yes;No;No;No;Yes;No;Yes;1650;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No
-Antigua and Barbuda;Caribbean;9712;Saint John's;22445;Yes;0.778;442;219.8;1;17607;0;No;No;Yes;No;No;No;No;Yes;Yes;153;Yes;No;No;No;No;Yes;No;No;No;Yes;No;No;Yes
-Argentina;South America;45376763;Buenos Aires;2890151;Yes;0.845;2780400;16.3;5;22092;74;No;No;Yes;No;Yes;Yes;Yes;No;No;4989;No;Yes;Yes;No;No;No;No;Yes;No;Yes;Yes;No;Yes
-Armenia;Europe/Asia;2963243;Yerevan;1060138;Yes;0.776;29743;110.1;4;13515;17;Yes;Yes;Yes;No;No;No;Yes;No;No;Landlocked;No;Yes;No;No;No;No;No;No;No;No;No;No;No
-Australia;Oceania;25499884;Canberra;457600;No;0.944;7692024;3.3;0;62619;533;No;No;No;No;Yes;Yes;Yes;Yes;No;25760;Yes;Yes;No;No;No;Yes;Yes;Yes;No;Yes;Yes;No;Yes
-Austria;Europe;8917205;Vienna;1863881;Yes;0.916;83871;106.3;8;55924;309;No;No;Yes;No;No;No;Yes;No;No;Landlocked;No;No;No;Yes;No;No;Yes;No;No;Yes;Yes;No;Yes
-Azerbaijan;Europe/Asia;10139177;Baku;2122300;Yes;0.756;866;119.4;5;15045;44;Yes;Yes;Yes;No;No;No;Yes;No;No;Landlocked;No;Yes;No;No;No;No;No;No;No;No;No;No;No
-Bahamas;Caribbean;38534;Nassau;274400;Yes;0.814;13943;27.6;0;31116;0;No;No;No;No;No;No;No;Yes;Yes;3542;Yes;Yes;No;No;No;Yes;No;Yes;No;No;No;No;Yes
+Angola;Southern Africa;32866272;Luanda;8069485;Yes;0.581;1246700;26.4;5;4100;0;No;Yes;Yes;No;No;No;Yes;No;Yes;1650;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No
+Antigua and Barbuda;Caribbean;93763;Saint John's;22445;Yes;0.778;442;219.8;1;17607;0;No;No;Yes;No;No;No;No;Yes;Yes;153;Yes;No;No;No;No;Yes;No;No;No;Yes;No;No;Yes
+Argentina;South America;45376766;Buenos Aires;15153729;Yes;0.845;2780400;16.3;5;22092;74;No;No;Yes;No;Yes;Yes;Yes;No;No;4989;No;Yes;Yes;No;No;No;No;Yes;No;Yes;Yes;No;Yes
+Armenia;Europe/Asia;2963343;Yerevan;1060138;Yes;0.776;29743;110.1;4;13515;17;Yes;Yes;Yes;No;No;No;Yes;No;No;Landlocked;No;Yes;No;No;No;No;No;No;No;No;No;No;No
+Australia;Oceania;25499889;Canberra;457600;No;0.944;7692024;3.3;0;62619;533;No;No;No;No;Yes;Yes;Yes;Yes;No;25760;Yes;Yes;No;No;No;Yes;Yes;Yes;No;Yes;Yes;No;Yes
+Austria;Europe;8917505;Vienna;1863881;Yes;0.916;83871;106.3;8;55924;309;No;No;Yes;No;No;No;Yes;No;No;Landlocked;No;No;No;Yes;No;No;Yes;No;No;Yes;Yes;No;Yes
+Azerbaijan;Europe/Asia;10139137;Baku;2122300;Yes;0.756;866;119.4;5;15045;44;Yes;Yes;Yes;No;No;No;Yes;No;No;Landlocked;No;Yes;No;No;No;No;No;No;No;No;No;No;No
+Bahamas;Caribbean;409484;Nassau;274400;Yes;0.814;13943;27.6;0;31116;0;No;No;No;No;No;No;No;Yes;Yes;3542;Yes;Yes;No;No;No;Yes;No;Yes;No;No;No;No;Yes
 Bahrain;Middle East;1701575;Manama;154621;Yes;0.875;765;2,225;1;43181;1;No;Yes;Yes;No;No;No;No;No;No;161;Yes;Yes;No;No;No;No;No;No;Yes;No;No;No;No
-Bangladesh;South Asia;161376708;Dhaka;10356500;Yes;0.632;14757;1,093;2;5028;1;No;Yes;Yes;No;No;No;Yes;Yes;No;580;No;Yes;No;No;No;Yes;No;No;No;Yes;No;No;No
-Barbados;Caribbean;287371;Bridgetown;110000;Yes;0.814;430;668.3;0;18133;0;No;No;No;No;No;No;No;Yes;Yes;97;Yes;No;No;No;No;Yes;No;No;No;Yes;No;No;Yes
+Bangladesh;South Asia;161376308;Dhaka;21741090;Yes;0.632;14757;1,093;2;5028;1;No;Yes;Yes;No;No;No;Yes;Yes;No;580;No;Yes;No;No;No;Yes;No;No;No;Yes;No;No;No
+Barbados;Caribbean;287171;Bridgetown;110000;Yes;0.814;430;668.3;0;18133;0;No;No;No;No;No;No;No;Yes;Yes;97;Yes;No;No;No;No;Yes;No;No;No;Yes;No;No;Yes
 Belarus;Europe;9449323;Minsk;1982444;Yes;0.823;2076;45.5;5;20187;26;Yes;Yes;Yes;No;No;No;Yes;No;No;Landlocked;No;Yes;No;No;No;No;No;No;No;No;No;No;No
-Belgium;Europe;11589623;Brussels;1149004;Yes;0.931;30528;380;4;57955;192;No;Yes;No;Yes;Yes;No;Yes;No;No;66;No;Yes;No;Yes;No;No;Yes;No;No;Yes;Yes;No;Yes
-Belize;Central America;397621;Belmopan;20357;No;0.716;22966;15.5;2;7268;0;No;Yes;Yes;No;No;No;No;Yes;Yes;386;No;No;No;No;No;Yes;No;No;No;No;No;No;No
-Benin;West Africa;12123200;Porto-Novo;234168;No;0.545;114763;105.6;4;3800;0;No;Yes;Yes;No;No;No;Yes;No;Yes;121;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No
-Bhutan;South Asia;763092;Thimphu;104400;Yes;0.654;38394;19.9;2;9508;0;No;Yes;No;No;No;No;No;No;Yes;Landlocked;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No
-Bolivia;South America;11673021;Sucre (official);1141608;No;0.718;1098581;10.6;5;7748;14;No;Yes;Yes;No;No;No;Yes;No;No;Landlocked;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No
-Bolivia;South America;11673021;La Paz (administrative);815900;No;0.718;1098581;10.6;5;7748;14;No;Yes;Yes;No;No;No;Yes;No;No;Landlocked;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No
+Belgium;Europe;11589223;Brussels;1149004;Yes;0.931;30528;380;4;57955;192;No;Yes;No;Yes;Yes;No;Yes;No;No;66;No;Yes;No;Yes;No;No;Yes;No;No;Yes;Yes;No;Yes
+Belize;Central America;397321;Belmopan;20357;No;0.716;22966;15.5;2;7268;0;No;Yes;Yes;No;No;No;No;Yes;Yes;386;No;No;No;No;No;Yes;No;No;No;No;No;No;No
+Benin;West Africa;12123100;Porto-Novo;234168;No;0.545;114763;105.6;4;3800;0;No;Yes;Yes;No;No;No;Yes;No;Yes;121;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No
+Bhutan;South Asia;763792;Thimphu;104400;Yes;0.654;38394;19.9;2;9508;0;No;Yes;No;No;No;No;No;No;Yes;Landlocked;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No
+Bolivia;South America;11673221;Sucre (official);300000;No;0.718;1098581;10.6;5;7748;14;No;Yes;Yes;No;No;No;Yes;No;No;Landlocked;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No
+Bolivia;South America;11673221;La Paz (administrative);816044;No;0.718;1098581;10.6;5;7748;14;No;Yes;Yes;No;No;No;Yes;No;No;Landlocked;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No
 Bosnia and Herzegovina;Europe;3280819;Sarajevo;275524;Yes;0.785;51197;63.4;3;14497;9;No;Yes;Yes;Yes;No;No;Yes;No;No;20;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No
-Botswana;Southern Africa;2351627;Gaborone;208411;Yes;0.735;58173;4;4;16234;0;No;Yes;Yes;No;No;No;Yes;No;Yes;Landlocked;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No
-Brazil;South America;212559417;Brasília;2556149;No;0.765;8515767;25;10;15903;150;No;Yes;Yes;No;Yes;Yes;Yes;No;No;7491;No;Yes;Yes;No;No;No;Yes;Yes;No;Yes;Yes;No;Yes
+Botswana;Southern Africa;2351227;Gaborone;208411;Yes;0.735;58173;4;4;16234;0;No;Yes;Yes;No;No;No;Yes;No;Yes;Landlocked;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No
+Brazil;South America;212559117;Brasília;3094325;No;0.765;8515767;25;10;15903;150;No;Yes;Yes;No;Yes;Yes;Yes;No;No;7491;No;Yes;Yes;No;No;No;Yes;Yes;No;Yes;Yes;No;Yes
 Brunei;Southeast Asia;437479;Bandar Seri Begawan;100700;Yes;0.845;5765;75.9;1;64724;0;No;Yes;Yes;No;No;No;No;No;Yes;161;No;Yes;No;No;No;Yes;No;No;Yes;No;No;No;No
 Bulgaria;Europe;6948445;Sofia;1314301;Yes;0.816;110879;63.4;5;23816;230;No;Yes;Yes;Yes;Yes;No;Yes;No;No;354;No;Yes;No;Yes;No;No;Yes;No;Yes;Yes;Yes;No;Yes
-Burkina Faso;West Africa;20321378;Ouagadougou;2580000;Yes;0.452;2742;74.1;6;2315;1;No;Yes;Yes;No;No;No;Yes;No;No;Landlocked;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No
-Burundi;East Africa;11530580;Gitega;75571;No;0.433;27834;410.7;3;779;0;No;Yes;Yes;No;No;No;Yes;No;Yes;Landlocked;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No
-Cabo Verde;West Africa;555987;Praia;137719;Yes;0.654;4033;138;0;6929;0;No;No;Yes;No;No;No;No;Yes;Yes;965;Yes;Yes;No;No;No;Yes;No;No;No;No;No;No;Yes
-Cambodia;Southeast Asia;16718965;Phnom Penh;1566000;Yes;0.593;181035;92.3;3;4664;0;No;Yes;Yes;No;No;No;Yes;No;Yes;443;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No
-Cameroon;Central Africa;26545864;Yaoundé;2440462;No;0.563;475442;55.8;6;3976;5;No;Yes;Yes;No;No;No;Yes;No;No;402;No;Yes;No;No;No;Yes;No;No;Yes;No;No;No;No
-Canada;North America;37742154;Ottawa;994837;No;0.929;9984670;3.8;1;57834;501;No;Yes;Yes;No;Yes;Yes;Yes;Yes;No;202080;No;Yes;Yes;Yes;No;Yes;Yes;Yes;No;Yes;Yes;Yes;Yes
+Burkina Faso;West Africa;20320378;Ouagadougou;2415940;Yes;0.452;2742;74.1;6;2315;1;No;Yes;Yes;No;No;No;Yes;No;No;Landlocked;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No
+Burundi;East Africa;11530880;Gitega;75571;No;0.433;27834;410.7;3;779;0;No;Yes;Yes;No;No;No;Yes;No;Yes;Landlocked;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No
+Cabo Verde;West Africa;555987987;Praia;137719;Yes;0.654;4033;138;0;6929;0;No;No;Yes;No;No;No;No;Yes;Yes;965;Yes;Yes;No;No;No;Yes;No;No;No;No;No;No;Yes
+Cambodia;Southeast Asia;16718965965;Phnom Penh;1566000;Yes;0.593;181035;92.3;3;4664;0;No;Yes;Yes;No;No;No;Yes;No;Yes;443;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No
+Cameroon;Central Africa;26545864864;Yaoundé;2440462;No;0.563;475442;55.8;6;3976;5;No;Yes;Yes;No;No;No;Yes;No;No;402;No;Yes;No;No;No;Yes;No;No;Yes;No;No;No;No
+Canada;North America;37742454;Ottawa;994837;No;0.929;9984670;3.8;1;57834;501;No;Yes;Yes;No;Yes;Yes;Yes;Yes;No;202080;No;Yes;Yes;Yes;No;Yes;Yes;Yes;No;Yes;Yes;Yes;Yes
 Central African Republic;Central Africa;4829767;Bangui;734350;Yes;0.397;622984;7.8;6;900;0;No;Yes;Yes;No;No;No;Yes;No;Yes;Landlocked;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No
-Chad;Central Africa;16425864;N'Djamena;1015000;Yes;0.398;1284000;9.4;6;1719;0;No;Yes;Yes;No;No;No;Yes;No;Yes;Landlocked;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No
-Chile;South America;19116209;Santiago;5037243;Yes;0.855;756102;25.3;5;27564;13;No;Yes;Yes;No;Yes;No;Yes;No;No;6435;No;Yes;No;No;No;No;Yes;No;No;Yes;Yes;No;Yes
+Chad;Central Africa;16425464;N'Djamena;1015000;Yes;0.398;1284000;9.4;6;1719;0;No;Yes;Yes;No;No;No;Yes;No;Yes;Landlocked;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No
+Chile;South America;19116109;Santiago;6811595;Yes;0.855;756102;25.3;5;27564;13;No;Yes;Yes;No;Yes;No;Yes;No;No;6435;No;Yes;No;No;No;No;Yes;No;No;Yes;Yes;No;Yes
 China;East Asia;1439323776;Beijing;21542000;Yes;0.761;9596961;150.1;14;16842;634;No;Yes;Yes;No;Yes;Yes;Yes;No;No;14500;No;Yes;Yes;No;No;No;Yes;No;Yes;Yes;Yes;Yes;Yes
-Colombia;South America;50882891;Bogotá;7776845;Yes;0.767;1141748;43.8;5;15621;34;No;Yes;Yes;No;Yes;Yes;Yes;No;No;3208;No;Yes;No;No;No;Yes;Yes;No;No;Yes;Yes;No;Yes
-Comoros;East Africa;869601;Moroni;60000;Yes;0.554;2235;396.1;0;1662;0;No;No;Yes;No;No;No;No;Yes;Yes;340;Yes;Yes;No;No;No;Yes;No;No;Yes;No;No;No;No
-Costa Rica;Central America;5094114;San José;288054;Yes;0.81;511;99.7;2;18353;4;No;Yes;Yes;No;No;No;Yes;No;No;1290;No;Yes;No;No;No;Yes;No;No;Yes;No;No;No;Yes
-Croatia;Europe;4105267;Zagreb;792875;Yes;0.851;56594;72.6;5;28016;52;No;Yes;Yes;Yes;Yes;No;Yes;No;No;5835;No;Yes;No;Yes;No;No;Yes;No;Yes;Yes;Yes;No;Yes
-Cuba;Caribbean;11326616;Havana;2143497;Yes;0.783;109884;103.1;1;10160;226;No;Yes;Yes;No;No;No;Yes;No;No;5746;Yes;Yes;No;No;No;Yes;No;No;Yes;No;No;No;No
-Cyprus;Europe/Asia;1207359;Nicosia;33281;Yes;0.887;9251;130.5;1;43125;1;No;Yes;Yes;Yes;No;No;Yes;No;No;648;Yes;Yes;No;Yes;No;Yes;No;No;Yes;No;No;No;Yes
-Czechia;Europe;10693939;Prague;1300000;Yes;0.888;78866;135.6;4;42658;143;No;Yes;Yes;No;No;No;Yes;No;No;Landlocked;No;Yes;No;Yes;No;No;Yes;No;No;Yes;Yes;No;Yes
-Democratic Republic of the Congo;Central Africa;89561404;Kinshasa;14911075;Yes;0.48;2344858;38.2;9;1110;5;No;Yes;Yes;No;No;No;Yes;No;Yes;37;No;Yes;No;No;No;Yes;No;No;Yes;No;No;No;No
-Denmark;Europe;5792202;Copenhagen;1030998;Yes;0.94;43094;134.5;1;63645;195;No;No;No;Yes;Yes;Yes;Yes;No;No;7314;Yes;No;No;Yes;Yes;Yes;Yes;No;No;Yes;Yes;No;Yes
-Djibouti;East Africa;988;Djibouti;475322;Yes;0.524;232;42.6;3;5561;0;No;Yes;Yes;No;No;No;No;No;Yes;314;No;Yes;No;No;No;Yes;No;No;Yes;No;No;No;No
+Colombia;South America;50882891891;Bogotá;7743955;Yes;0.767;1141748;43.8;5;15621;34;No;Yes;Yes;No;Yes;Yes;Yes;No;No;3208;No;Yes;No;No;No;Yes;Yes;No;No;Yes;Yes;No;Yes
+Comoros;East Africa;869801;Moroni;60000;Yes;0.554;2235;396.1;0;1662;0;No;No;Yes;No;No;No;No;Yes;Yes;340;Yes;Yes;No;No;No;Yes;No;No;Yes;No;No;No;No
+Costa Rica;Central America;5094114;San José;342188;Yes;0.81;511;99.7;2;18353;4;No;Yes;Yes;No;No;No;Yes;No;No;1290;No;Yes;No;No;No;Yes;No;No;Yes;No;No;No;Yes
+Croatia;Europe;4105767;Zagreb;792875;Yes;0.851;56594;72.6;5;28016;52;No;Yes;Yes;Yes;Yes;No;Yes;No;No;5835;No;Yes;No;Yes;No;No;Yes;No;Yes;Yes;Yes;No;Yes
+Cuba;Caribbean;11326316;Havana;2143497;Yes;0.783;109884;103.1;1;10160;226;No;Yes;Yes;No;No;No;Yes;No;No;5746;Yes;Yes;No;No;No;Yes;No;No;Yes;No;No;No;No
+Cyprus;Europe/Asia;1207259;Nicosia;33281;Yes;0.887;9251;130.5;1;43125;1;No;Yes;Yes;Yes;No;No;Yes;No;No;648;Yes;Yes;No;Yes;No;Yes;No;No;Yes;No;No;No;Yes
+Czechia;Europe;10693339;Prague;1300000;Yes;0.888;78866;135.6;4;42658;143;No;Yes;Yes;No;No;No;Yes;No;No;Landlocked;No;Yes;No;Yes;No;No;Yes;No;No;Yes;Yes;No;Yes
+Democratic Republic of the Congo;Central Africa;89561404;Kinshasa;15628085;Yes;0.48;2344858;38.2;9;1110;5;No;Yes;Yes;No;No;No;Yes;No;Yes;37;No;Yes;No;No;No;Yes;No;No;Yes;No;No;No;No
+Denmark;Europe;5792202;Copenhagen;794128;Yes;0.94;43094;134.5;1;63645;195;No;No;No;Yes;Yes;Yes;Yes;No;No;7314;Yes;No;No;Yes;Yes;Yes;Yes;No;No;Yes;Yes;No;Yes
+Djibouti;East Africa;988;Djibouti;562000;Yes;0.524;232;42.6;3;5561;0;No;Yes;Yes;No;No;No;No;No;Yes;314;No;Yes;No;No;No;Yes;No;No;Yes;No;No;No;No
 Dominica;Caribbean;71986;Roseau;14625;Yes;0.742;751;95.8;1;11792;0;No;No;Yes;No;No;No;No;Yes;Yes;148;Yes;Yes;No;No;No;Yes;No;No;No;No;No;No;Yes
 Dominican Republic;Caribbean;10847910;Santo Domingo;2902000;Yes;0.756;48671;223.5;1;19937;12;No;Yes;Yes;No;No;No;Yes;No;No;1288;No;Yes;No;No;No;Yes;No;No;Yes;No;No;No;Yes
-East Timor;Southeast Asia;1318442;Dili;234331;Yes;0.625;14874;88.6;1;2351;0;No;Yes;Yes;No;No;No;No;No;Yes;706;Yes;Yes;No;No;No;Yes;No;No;Yes;No;No;No;No
-Ecuador;South America;17643054;Quito;2589227;No;0.759;283561;61.8;5;11981;10;No;Yes;Yes;No;No;No;Yes;No;No;2237;No;Yes;No;No;No;Yes;Yes;No;No;No;No;No;No
-Egypt;North Africa;102334404;Cairo;9537640;Yes;0.707;1001450;102.2;4;13076;32;No;Yes;Yes;Yes;Yes;Yes;Yes;No;No;2450;No;Yes;No;No;No;Yes;Yes;Yes;Yes;No;No;No;Yes
-El Salvador;Central America;6486205;San Salvador;567698;Yes;0.673;21041;308.3;2;9176;1;No;Yes;Yes;No;No;No;Yes;No;No;307;No;Yes;No;No;No;Yes;No;No;No;No;No;No;No
+East Timor;Southeast Asia;1318448;Dili;234331;Yes;0.625;14874;88.6;1;2351;0;No;Yes;Yes;No;No;No;No;No;Yes;706;Yes;Yes;No;No;No;Yes;No;No;Yes;No;No;No;No
+Ecuador;South America;17643554;Quito;2589227;No;0.759;283561;61.8;5;11981;10;No;Yes;Yes;No;No;No;Yes;No;No;2237;No;Yes;No;No;No;Yes;Yes;No;No;No;No;No;No
+Egypt;North Africa;102334404;Cairo;21322750;Yes;0.707;1001450;102.2;4;13076;32;No;Yes;Yes;Yes;Yes;Yes;Yes;No;No;2450;No;Yes;No;No;No;Yes;Yes;Yes;Yes;No;No;No;Yes
+El Salvador;Central America;6486285;San Salvador;567698;Yes;0.673;21041;308.3;2;9176;1;No;Yes;Yes;No;No;No;Yes;No;No;307;No;Yes;No;No;No;Yes;No;No;No;No;No;No;No
 Equatorial Guinea;Central Africa;1402985;Malabo;297000;No;0.592;2805;50.1;3;11019;0;No;Yes;Yes;No;No;No;Yes;No;Yes;296;No;Yes;No;No;No;Yes;No;No;Yes;No;No;No;No
-Eritrea;East Africa;3546421;Asmara;963000;Yes;0.459;1176;30.2;5;1910;0;No;Yes;Yes;No;No;No;No;No;Yes;2234;No;Yes;No;No;No;Yes;No;No;Yes;No;No;No;No
-Estonia;Europe;1325648;Tallinn;426538;Yes;0.882;45228;29.3;4;45417;35;No;Yes;Yes;Yes;Yes;No;Yes;No;No;3794;No;Yes;No;Yes;No;No;Yes;No;Yes;Yes;Yes;No;Yes
-Eswatini;Southern Africa;1160164;Mbabane (administrative);57992;No;0.611;17364;66.8;4;11568;0;No;Yes;Yes;No;No;No;No;No;Yes;Landlocked;No;Yes;No;No;No;Yes;No;No;Yes;No;No;No;No
-Eswatini;Southern Africa;1160164;Lobamba (royal and legislative);4115;No;0.611;17364;66.8;4;11568;0;No;Yes;Yes;No;No;No;No;No;Yes;Landlocked;No;Yes;No;No;No;Yes;No;No;Yes;No;No;No;No
-Ethiopia;East Africa;114963588;Addis Ababa;3041000;Yes;0.485;1104300;104.1;6;2505;1;No;Yes;Yes;No;No;No;Yes;No;Yes;Landlocked;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No
-Fiji;Oceania;896445;Suva;93427;Yes;0.73;18272;49.1;0;12600;3;No;No;Yes;No;No;No;No;Yes;Yes;1129;Yes;Yes;No;No;No;Yes;No;No;No;No;No;No;No
-Finland;Europe;5540720;Helsinki;656229;Yes;0.938;338424;16.4;3;57778;266;No;No;No;Yes;Yes;Yes;Yes;No;No;6302;Yes;No;No;Yes;Yes;Yes;Yes;No;No;Yes;Yes;No;Yes
-France;Europe;65273511;Paris;2140526;Yes;0.903;643801;105.5;8;50728;288;No;No;No;Yes;Yes;Yes;Yes;No;No;8038;Yes;No;No;Yes;Yes;Yes;Yes;No;No;Yes;Yes;No;Yes
-Gabon;Central Africa;2225734;Libreville;703904;Yes;0.706;267668;8.3;4;16549;0;No;Yes;Yes;No;No;No;Yes;No;Yes;885;No;Yes;No;No;No;Yes;No;No;No;No;No;No;No
-Gambia;West Africa;2416668;Banjul;357238;No;0.499;11295;214;1;2880;0;No;Yes;Yes;No;No;No;Yes;No;Yes;80;No;Yes;No;No;No;Yes;No;No;Yes;No;No;No;No
-Georgia;Europe/Asia;3989167;Tbilisi;1123000;Yes;0.802;697;57.2;4;18594;0;No;Yes;Yes;Yes;Yes;No;Yes;No;No;310;No;Yes;No;Yes;No;No;Yes;No;Yes;Yes;Yes;No;Yes
-Germany;Europe;83783942;Berlin;3520031;Yes;0.942;357114;235.4;9;60616;3,822;No;No;No;Yes;Yes;Yes;Yes;No;No;2389;Yes;No;No;Yes;Yes;Yes;Yes;No;No;Yes;Yes;No;Yes
-Ghana;West Africa;31072945;Accra;2291352;Yes;0.632;238533;130.3;3;5744;16;No;Yes;Yes;No;No;No;Yes;No;No;539;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No
-Greece;Europe;10423054;Athens;664046;Yes;0.888;131957;79;4;35901;174;No;Yes;Yes;Yes;Yes;No;Yes;No;No;13676;Yes;Yes;No;Yes;No;No;Yes;No;Yes;Yes;Yes;No;Yes
-Grenada;Caribbean;112523;St. George's;7500;Yes;0.779;344;327.3;0;17300;0;No;No;Yes;No;No;No;No;Yes;Yes;121;Yes;Yes;No;No;No;Yes;No;No;No;No;No;No;Yes
-Guatemala;Central America;17915568;Guatemala City;942066;Yes;0.663;108889;164.6;4;9163;1;No;Yes;Yes;No;No;No;Yes;No;No;1671;No;Yes;No;No;No;Yes;No;No;No;No;No;No;No
-Guinea;West Africa;13132795;Conakry;1767200;Yes;0.477;245857;53.4;6;3133;0;No;Yes;Yes;No;No;No;Yes;No;Yes;320;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No
-Guinea-Bissau;West Africa;1968001;Bissau;492004;Yes;0.483;36125;54.5;2;2859;0;No;Yes;Yes;No;No;No;Yes;No;Yes;350;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No
-Guyana;South America;786559;Georgetown;235017;Yes;0.682;21497;3.7;3;19698;2;No;No;Yes;No;No;No;No;Yes;Yes;459;Yes;Yes;No;No;No;Yes;No;No;Yes;No;No;No;No
-Haiti;Caribbean;11402528;Port-au-Prince;987310;Yes;0.535;2756;413.7;1;2424;0;No;Yes;Yes;No;No;No;Yes;No;No;1771;No;Yes;No;No;No;Yes;No;No;No;No;No;No;No
-Honduras;Central America;9904607;Tegucigalpa;1266392;Yes;0.634;112492;88;3;6398;3;No;Yes;Yes;No;No;No;Yes;No;No;1020;No;Yes;No;No;No;Yes;No;No;No;No;No;No;No
-Hungary;Europe;9660351;Budapest;1752286;Yes;0.858;9303;103.9;7;35941;50;No;Yes;Yes;Yes;Yes;No;Yes;No;No;Landlocked;No;Yes;No;Yes;No;No;Yes;No;Yes;Yes;Yes;No;Yes
-Iceland;Europe;356991;Reykjavík;128793;Yes;0.949;103;3.5;0;68844;6;No;No;No;Yes;Yes;Yes;Yes;No;No;3790;Yes;No;No;Yes;Yes;Yes;Yes;No;No;Yes;Yes;No;Yes
-India;South Asia;1393409038;New Delhi;14200452;No;0.633;3287263;423.9;6;7101;8;No;Yes;Yes;Yes;Yes;Yes;Yes;No;No;7516;No;Yes;Yes;No;Yes;Yes;Yes;Yes;Yes;No;Yes;Yes;Yes
-Indonesia;Southeast Asia;273523621;Jakarta;9607785;Yes;0.718;1904569;143.6;3;15134;51;No;Yes;Yes;No;Yes;Yes;Yes;No;No;54716;Yes;Yes;No;No;No;Yes;Yes;No;Yes;Yes;Yes;No;Yes
-Iran;Middle East;83992949;Tehran;8154051;Yes;0.774;1648195;51;7;14674;141;No;Yes;Yes;Yes;Yes;No;Yes;No;No;2440;No;Yes;No;No;No;Yes;No;Yes;No;Yes;Yes;No;Yes
-Iraq;Middle East;40222493;Baghdad;8785000;Yes;0.686;438317;91.7;6;13537;1;No;Yes;Yes;Yes;Yes;No;Yes;No;No;58;No;Yes;No;No;No;Yes;No;No;Yes;Yes;Yes;No;Yes
-Ireland;Europe;4994724;Dublin;553165;Yes;0.955;70273;71.1;1;110719;35;No;No;No;Yes;Yes;Yes;Yes;No;No;13676;Yes;No;No;Yes;Yes;Yes;Yes;No;No;Yes;Yes;No;Yes
-Israel;Middle East;9216900;Jerusalem;919438;Yes;0.919;22072;417.5;4;48725;143;No;No;No;Yes;Yes;No;Yes;No;No;273;Yes;No;Yes;Yes;No;Yes;Yes;Yes;No;Yes;Yes;No;Yes
-Italy;Europe;60461826;Rome;2870493;Yes;0.883;30134;200.6;8;46479;492;No;Yes;Yes;Yes;Yes;No;Yes;No;No;7600;Yes;Yes;No;Yes;Yes;Yes;Yes;No;No;Yes;Yes;No;Yes
-Ivory Coast;West Africa;26378274;Yamoussoukro;200000;No;0.55;322463;81.8;5;5353;15;No;Yes;Yes;No;No;No;Yes;No;No;515;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No
-Jamaica;Caribbean;2961167;Kingston;93477;Yes;0.734;10991;269.5;0;13772;1;No;No;Yes;No;No;No;No;Yes;Yes;608;Yes;Yes;No;No;No;Yes;No;No;Yes;No;No;No;Yes
-Japan;East Asia;125507472;Tokyo;13942856;Yes;0.925;377975;332.1;4;51890;1,48;No;No;No;Yes;Yes;No;Yes;No;No;29751;Yes;No;No;Yes;Yes;Yes;Yes;No;No;Yes;Yes;No;Yes
-Jordan;Middle East;10203134;Amman;2776340;Yes;0.735;89342;114.2;4;12472;0;No;Yes;Yes;Yes;Yes;No;Yes;No;No;524;No;Yes;No;Yes;No;No;Yes;No;Yes;Yes;Yes;No;Yes
-Kazakhstan;Europe/Asia;18776707;Nur-Sultan;1110592;No;0.825;2724900;6.9;5;28515;15;No;Yes;Yes;Yes;Yes;No;Yes;No;No;Landlocked;No;Yes;No;Yes;No;No;Yes;No;Yes;Yes;Yes;No;Yes
-Kenya;East Africa;54985698;Nairobi;4397075;Yes;0.555;580367;94.7;5;5623;13;No;Yes;Yes;No;No;No;Yes;No;Yes;536;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No
+Eritrea;East Africa;3546121;Asmara;963000;Yes;0.459;1176;30.2;5;1910;0;No;Yes;Yes;No;No;No;No;No;Yes;2234;No;Yes;No;No;No;Yes;No;No;Yes;No;No;No;No
+Estonia;Europe;1325848;Tallinn;426538;Yes;0.882;45228;29.3;4;45417;35;No;Yes;Yes;Yes;Yes;No;Yes;No;No;3794;No;Yes;No;Yes;No;No;Yes;No;Yes;Yes;Yes;No;Yes
+Eswatini;Southern Africa;1160664;Mbabane (administrative);57992;No;0.611;17364;66.8;4;11568;0;No;Yes;Yes;No;No;No;No;No;Yes;Landlocked;No;Yes;No;No;No;Yes;No;No;Yes;No;No;No;No
+Eswatini;Southern Africa;1160664;Lobamba (royal and legislative);4115;No;0.611;17364;66.8;4;11568;0;No;Yes;Yes;No;No;No;No;No;Yes;Landlocked;No;Yes;No;No;No;Yes;No;No;Yes;No;No;No;No
+Ethiopia;East Africa;114963583;Addis Ababa;5005524;Yes;0.485;1104300;104.1;6;2505;1;No;Yes;Yes;No;No;No;Yes;No;Yes;Landlocked;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No
+Fiji;Oceania;896845;Suva;93427;Yes;0.73;18272;49.1;0;12600;3;No;No;Yes;No;No;No;No;Yes;Yes;1129;Yes;Yes;No;No;No;Yes;No;No;No;No;No;No;No
+Finland;Europe;5540020;Helsinki;656611;Yes;0.938;338424;16.4;3;57778;266;No;No;No;Yes;Yes;Yes;Yes;No;No;6302;Yes;No;No;Yes;Yes;Yes;Yes;No;No;Yes;Yes;No;Yes
+France;Europe;65273111;Paris;11142303;Yes;0.903;643801;105.5;8;50728;288;No;No;No;Yes;Yes;Yes;Yes;No;No;8038;Yes;No;No;Yes;Yes;Yes;Yes;No;No;Yes;Yes;No;Yes
+Gabon;Central Africa;2225234;Libreville;703904;Yes;0.706;267668;8.3;4;16549;0;No;Yes;Yes;No;No;No;Yes;No;Yes;885;No;Yes;No;No;No;Yes;No;No;No;No;No;No;No
+Gambia;West Africa;2416468;Banjul;357238;No;0.499;11295;214;1;2880;0;No;Yes;Yes;No;No;No;Yes;No;Yes;80;No;Yes;No;No;No;Yes;No;No;Yes;No;No;No;No
+Georgia;Europe/Asia;3989767;Tbilisi;1123000;Yes;0.802;697;57.2;4;18594;0;No;Yes;Yes;Yes;Yes;No;Yes;No;No;310;No;Yes;No;Yes;No;No;Yes;No;Yes;Yes;Yes;No;Yes
+Germany;Europe;83783442;Berlin;3769495;Yes;0.942;357114;235.4;9;60616;3,822;No;No;No;Yes;Yes;Yes;Yes;No;No;2389;Yes;No;No;Yes;Yes;Yes;Yes;No;No;Yes;Yes;No;Yes
+Ghana;West Africa;31072045;Accra;2514000;Yes;0.632;238533;130.3;3;5744;16;No;Yes;Yes;No;No;No;Yes;No;No;539;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No
+Greece;Europe;10423454;Athens;664046;Yes;0.888;131957;79;4;35901;174;No;Yes;Yes;Yes;Yes;No;Yes;No;No;13676;Yes;Yes;No;Yes;No;No;Yes;No;Yes;Yes;Yes;No;Yes
+Grenada;Caribbean;112123;St. George's;7500;Yes;0.779;344;327.3;0;17300;0;No;No;Yes;No;No;No;No;Yes;Yes;121;Yes;Yes;No;No;No;Yes;No;No;No;No;No;No;Yes
+Guatemala;Central America;17915565;Guatemala City;942066;Yes;0.663;108889;164.6;4;9163;1;No;Yes;Yes;No;No;No;Yes;No;No;1671;No;Yes;No;No;No;Yes;No;No;No;No;No;No;No
+Guinea;West Africa;13132595;Conakry;1767200;Yes;0.477;245857;53.4;6;3133;0;No;Yes;Yes;No;No;No;Yes;No;Yes;320;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No
+Guinea-Bissau;West Africa;1961001;Bissau;492004;Yes;0.483;36125;54.5;2;2859;0;No;Yes;Yes;No;No;No;Yes;No;Yes;350;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No
+Guyana;South America;786759;Georgetown;235017;Yes;0.682;21497;3.7;3;19698;2;No;No;Yes;No;No;No;No;Yes;Yes;459;Yes;Yes;No;No;No;Yes;No;No;Yes;No;No;No;No
+Haiti;Caribbean;11402428;Port-au-Prince;987310;Yes;0.535;2756;413.7;1;2424;0;No;Yes;Yes;No;No;No;Yes;No;No;1771;No;Yes;No;No;No;Yes;No;No;No;No;No;No;No
+Honduras;Central America;9904007;Tegucigalpa;1266392;Yes;0.634;112492;88;3;6398;3;No;Yes;Yes;No;No;No;Yes;No;No;1020;No;Yes;No;No;No;Yes;No;No;No;No;No;No;No
+Hungary;Europe;9660151;Budapest;1752286;Yes;0.858;9303;103.9;7;35941;50;No;Yes;Yes;Yes;Yes;No;Yes;No;No;Landlocked;No;Yes;No;Yes;No;No;Yes;No;Yes;Yes;Yes;No;Yes
+Iceland;Europe;356391;Reykjavík;128793;Yes;0.949;103;3.5;0;68844;6;No;No;No;Yes;Yes;Yes;Yes;No;No;3790;Yes;No;No;Yes;Yes;Yes;Yes;No;No;Yes;Yes;No;Yes
+India;South Asia;1393409338;New Delhi;32065760;No;0.633;3287263;423.9;6;7101;8;No;Yes;Yes;Yes;Yes;Yes;Yes;No;No;7516;No;Yes;Yes;No;Yes;Yes;Yes;Yes;Yes;No;Yes;Yes;Yes
+Indonesia;Southeast Asia;273523621;Jakarta;11074811;Yes;0.718;1904569;143.6;3;15134;51;No;Yes;Yes;No;Yes;Yes;Yes;No;No;54716;Yes;Yes;No;No;No;Yes;Yes;No;Yes;Yes;Yes;No;Yes
+Iran;Middle East;83992949;Tehran;9039000;Yes;0.774;1648195;51;7;14674;141;No;Yes;Yes;Yes;Yes;No;Yes;No;No;2440;No;Yes;No;No;No;Yes;No;Yes;No;Yes;Yes;No;Yes
+Iraq;Middle East;40222293;Baghdad;7144923;Yes;0.686;438317;91.7;6;13537;1;No;Yes;Yes;Yes;Yes;No;Yes;No;No;58;No;Yes;No;No;No;Yes;No;No;Yes;Yes;Yes;No;Yes
+Ireland;Europe;4994424;Dublin;1450701;Yes;0.955;70273;71.1;1;110719;35;No;No;No;Yes;Yes;Yes;Yes;No;No;13676;Yes;No;No;Yes;Yes;Yes;Yes;No;No;Yes;Yes;No;Yes
+Israel;Middle East;9216200;Jerusalem;919438;Yes;0.919;22072;417.5;4;48725;143;No;No;No;Yes;Yes;No;Yes;No;No;273;Yes;No;Yes;Yes;No;Yes;Yes;Yes;No;Yes;Yes;No;Yes
+Italy;Europe;60461426;Rome;2870493;Yes;0.883;30134;200.6;8;46479;492;No;Yes;Yes;Yes;Yes;No;Yes;No;No;7600;Yes;Yes;No;Yes;Yes;Yes;Yes;No;No;Yes;Yes;No;Yes
+Ivory Coast;West Africa;26378374;Yamoussoukro;200000;No;0.55;322463;81.8;5;5353;15;No;Yes;Yes;No;No;No;Yes;No;No;515;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No
+Jamaica;Caribbean;2961767;Kingston;93477;Yes;0.734;10991;269.5;0;13772;1;No;No;Yes;No;No;No;No;Yes;Yes;608;Yes;Yes;No;No;No;Yes;No;No;Yes;No;No;No;Yes
+Japan;East Asia;125507272;Tokyo;37393129;Yes;0.925;377975;332.1;4;51890;1,48;No;No;No;Yes;Yes;No;Yes;No;No;29751;Yes;No;No;Yes;Yes;Yes;Yes;No;No;Yes;Yes;No;Yes
+Jordan;Middle East;10203434;Amman;2776340;Yes;0.735;89342;114.2;4;12472;0;No;Yes;Yes;Yes;Yes;No;Yes;No;No;524;No;Yes;No;Yes;No;No;Yes;No;Yes;Yes;Yes;No;Yes
+Kazakhstan;Europe/Asia;18776777;Nur-Sultan;1110592;No;0.825;2724900;6.9;5;28515;15;No;Yes;Yes;Yes;Yes;No;Yes;No;No;Landlocked;No;Yes;No;Yes;No;No;Yes;No;Yes;Yes;Yes;No;Yes
+Kenya;East Africa;54985998;Nairobi;4397075;Yes;0.555;580367;94.7;5;5623;13;No;Yes;Yes;No;No;No;Yes;No;Yes;536;No;Yes;No;No;No;No;No;No;Yes;No;No;No;No
 Kiribati;Oceania;11994;South Tarawa;56228;Yes;0.62;811;147.9;0;2160;0;No;No;Yes;No;No;No;No;Yes;Yes;114;Yes;Yes;No;No;No;Yes;No;No;No;No;No;No;No
-Kuwait;Middle East;4270571;Kuwait City;1500000;Yes;0.806;17818;239.6;2;66300;68;No;Yes;Yes;Yes;Yes;No;Yes;No;No;681;Yes;Yes;No;Yes;No;Yes;No;Yes;No;Yes;Yes;No;Yes
-Kyrgyzstan;Central Asia;6524195;Bishkek;974800;Yes;0.692;199951;32.6;4;5204;1;No;Yes;Yes;Yes;No;No;Yes;No;No;Landlocked;No;Yes;No;No;No;No;Yes;No;Yes;Yes;Yes;No;No
-Laos;Southeast Asia;7275560;Vientiane;820940;Yes;0.613;236800;30.8;5;2227;0;No;Yes;No;No;No;No;Yes;No;No;Landlocked;No;No;No;No;Yes;No;No;No;No;No;No;No;No
-Latvia;Europe;1886198;Riga;632614;Yes;0.868;64589;29.2;4;15973;30;Yes;Yes;No;Yes;No;No;Yes;Yes;Yes;498;No;Yes;No;No;Yes;Yes;Yes;No;No;No;No;No;No
-Lebanon;Middle East;6855713;Beirut;2040000;Yes;0.757;10452;656.3;2;12240;4;No;Yes;Yes;Yes;No;No;Yes;No;Yes;225;No;No;No;No;Yes;No;No;No;No;No;No;No;No
-Lesotho;Southern Africa;2142249;Maseru;330760;Yes;0.527;30355;70.6;1;1413;0;No;Yes;No;No;No;No;Yes;Yes;No;Landlocked;No;No;No;No;Yes;Yes;No;No;No;No;No;No;No
-Liberia;West Africa;5140362;Monrovia;1010970;Yes;0.48;111369;46.2;3;882;2;No;Yes;No;No;No;No;Yes;Yes;No;579;No;No;No;No;Yes;Yes;No;No;No;No;No;No;No
-Libya;North Africa;6777452;Tripoli;2374791;Yes;0.748;1759540;3.8;6;9922;0;No;Yes;No;Yes;No;No;Yes;No;Yes;1770;No;No;No;No;Yes;No;No;No;No;No;No;No;No
-Liechtenstein;Europe;38128;Vaduz;5624;Yes;NA;160;238.3;2;NA;10;No;Yes;No;No;No;No;No;No;Yes;Landlocked;No;No;No;No;No;Yes;No;No;No;No;No;No;No
-Lithuania;Europe;2749444;Vilnius;580020;Yes;0.882;65300;42;4;18083;25;Yes;Yes;No;Yes;No;No;Yes;Yes;Yes;99;No;Yes;No;No;Yes;Yes;Yes;No;No;No;No;No;No
-Luxembourg;Europe;634730;Luxembourg City;115227;Yes;0.916;2586;232.1;3;113196;10;No;Yes;No;No;No;No;Yes;Yes;Yes;Landlocked;No;No;No;No;No;Yes;No;No;No;No;No;No;No
-Madagascar;East Africa;29985675;Antananarivo;1468595;Yes;0.528;587041;51.1;2;543;0;No;Yes;Yes;Yes;No;No;Yes;No;Yes;4828;No;No;No;No;Yes;Yes;No;No;No;No;No;No;No
-Malawi;East Africa;20653056;Lilongwe;989318;Yes;0.477;118484;174.3;5;384;0;No;Yes;No;No;No;No;Yes;Yes;No;Landlocked;No;No;No;No;Yes;Yes;No;No;No;No;No;No;No
-Malaysia;Southeast Asia;32782964;Kuala Lumpur;7906469;Yes;0.802;330803;99.1;3;12331;11;No;Yes;No;Yes;No;No;Yes;Yes;Yes;4675;No;No;No;No;Yes;Yes;Yes;No;No;No;No;No;Yes
-Maldives;South Asia;548294;Malé;215879;Yes;0.724;298;1840.6;0;11130;2;No;Yes;Yes;No;No;No;No;No;Yes;644;No;No;No;No;No;No;No;No;No;No;No;No;No
-Mali;West Africa;20250833;Bamako;2429583;Yes;0.427;1240192;16.3;7;900;1;No;Yes;No;No;No;No;Yes;Yes;No;Landlocked;No;No;No;No;Yes;Yes;No;No;No;No;No;No;No
+Kuwait;Middle East;4270271;Kuwait City;1500000;Yes;0.806;17818;239.6;2;66300;68;No;Yes;Yes;Yes;Yes;No;Yes;No;No;681;Yes;Yes;No;Yes;No;Yes;No;Yes;No;Yes;Yes;No;Yes
+Kyrgyzstan;Central Asia;6524194;Bishkek;974800;Yes;0.692;199951;32.6;4;5204;1;No;Yes;Yes;Yes;No;No;Yes;No;No;Landlocked;No;Yes;No;No;No;No;Yes;No;Yes;Yes;Yes;No;No
+Laos;Southeast Asia;7275260;Vientiane;820940;Yes;0.613;236800;30.8;5;2227;0;No;Yes;No;No;No;No;Yes;No;No;Landlocked;No;No;No;No;Yes;No;No;No;No;No;No;No;No
+Latvia;Europe;1886898;Riga;632614;Yes;0.868;64589;29.2;4;15973;30;Yes;Yes;No;Yes;No;No;Yes;Yes;Yes;498;No;Yes;No;No;Yes;Yes;Yes;No;No;No;No;No;No
+Lebanon;Middle East;6855313;Beirut;2040000;Yes;0.757;10452;656.3;2;12240;4;No;Yes;Yes;Yes;No;No;Yes;No;Yes;225;No;No;No;No;Yes;No;No;No;No;No;No;No;No
+Lesotho;Southern Africa;2142949;Maseru;330760;Yes;0.527;30355;70.6;1;1413;0;No;Yes;No;No;No;No;Yes;Yes;No;Landlocked;No;No;No;No;Yes;Yes;No;No;No;No;No;No;No
+Liberia;West Africa;5140262;Monrovia;1010970;Yes;0.48;111369;46.2;3;882;2;No;Yes;No;No;No;No;Yes;Yes;No;579;No;No;No;No;Yes;Yes;No;No;No;No;No;No;No
+Libya;North Africa;6777752;Tripoli;2374791;Yes;0.748;1759540;3.8;6;9922;0;No;Yes;No;Yes;No;No;Yes;No;Yes;1770;No;No;No;No;Yes;No;No;No;No;No;No;No;No
+Liechtenstein;Europe;38138;Vaduz;5624;Yes;NA;160;238.3;2;NA;10;No;Yes;No;No;No;No;No;No;Yes;Landlocked;No;No;No;No;No;Yes;No;No;No;No;No;No;No
+Lithuania;Europe;2749444444;Vilnius;580020;Yes;0.882;65300;42;4;18083;25;Yes;Yes;No;Yes;No;No;Yes;Yes;Yes;99;No;Yes;No;No;Yes;Yes;Yes;No;No;No;No;No;No
+Luxembourg;Europe;634730730;Luxembourg City;115227;Yes;0.916;2586;232.1;3;113196;10;No;Yes;No;No;No;No;Yes;Yes;Yes;Landlocked;No;No;No;No;No;Yes;No;No;No;No;No;No;No
+Madagascar;East Africa;29985685;Antananarivo;1468595;Yes;0.528;587041;51.1;2;543;0;No;Yes;Yes;Yes;No;No;Yes;No;Yes;4828;No;No;No;No;Yes;Yes;No;No;No;No;No;No;No
+Malawi;East Africa;20653656;Lilongwe;989318;Yes;0.477;118484;174.3;5;384;0;No;Yes;No;No;No;No;Yes;Yes;No;Landlocked;No;No;No;No;Yes;Yes;No;No;No;No;No;No;No
+Malaysia;Southeast Asia;32782964964;Kuala Lumpur;8210745;Yes;0.802;330803;99.1;3;12331;11;No;Yes;No;Yes;No;No;Yes;Yes;Yes;4675;No;No;No;No;Yes;Yes;Yes;No;No;No;No;No;Yes
+Maldives;South Asia;548494;Malé;215879;Yes;0.724;298;1840.6;0;11130;2;No;Yes;Yes;No;No;No;No;No;Yes;644;No;No;No;No;No;No;No;No;No;No;No;No;No
+Mali;West Africa;20250233;Bamako;2429583;Yes;0.427;1240192;16.3;7;900;1;No;Yes;No;No;No;No;Yes;Yes;No;Landlocked;No;No;No;No;Yes;Yes;No;No;No;No;No;No;No
 Malta;Europe;514564;Valletta;54430;Yes;0.877;316;1626.2;0;29200;3;No;Yes;No;Yes;No;No;Yes;Yes;Yes;197;No;No;No;No;Yes;Yes;No;No;No;No;No;No;Yes
 Marshall Islands;Oceania;59190;Majuro;25500;Yes;NA;181;327.2;0;NA;0;No;Yes;Yes;No;No;No;No;No;Yes;370;No;No;No;No;Yes;Yes;No;No;No;No;No;No;No
-Mauritania;West Africa;4699918;Nouakchott;1142573;Yes;0.533;1030700;4.5;5;2533;1;No;Yes;Yes;Yes;No;No;Yes;No;Yes;754;No;No;No;No;Yes;Yes;No;No;No;No;No;No;No
-Mauritius;East Africa;1280923;Port Louis;148416;Yes;0.804;2040;629.1;0;23000;0;No;Yes;Yes;Yes;No;No;Yes;Yes;Yes;177;No;No;No;No;Yes;Yes;No;No;No;No;No;No;No
-Mexico;North America;129163276;Mexico City;8918653;Yes;0.779;1964375;65.8;3;19034;70;No;Yes;Yes;Yes;Yes;Yes;Yes;No;Yes;9331;No;No;No;No;Yes;No;Yes;No;No;No;No;No;Yes
-Micronesia;Oceania;113815;Palikir;4640;No;NA;702;161.9;0;NA;0;No;Yes;Yes;Yes;No;No;No;No;Yes;671;No;No;No;No;Yes;Yes;No;No;No;No;No;No;No
+Mauritania;West Africa;4699919;Nouakchott;1142573;Yes;0.533;1030700;4.5;5;2533;1;No;Yes;Yes;Yes;No;No;Yes;No;Yes;754;No;No;No;No;Yes;Yes;No;No;No;No;No;No;No
+Mauritius;East Africa;1280923923;Port Louis;148416;Yes;0.804;2040;629.1;0;23000;0;No;Yes;Yes;Yes;No;No;Yes;Yes;Yes;177;No;No;No;No;Yes;Yes;No;No;No;No;No;No;No
+Mexico;North America;129163776;Mexico City;8918653;Yes;0.779;1964375;65.8;3;19034;70;No;Yes;Yes;Yes;Yes;Yes;Yes;No;Yes;9331;No;No;No;No;Yes;No;Yes;No;No;No;No;No;Yes
+Micronesia;Oceania;113815815;Palikir;4640;No;NA;702;161.9;0;NA;0;No;Yes;Yes;Yes;No;No;No;No;Yes;671;No;No;No;No;Yes;Yes;No;No;No;No;No;No;No
 Moldova;Europe;3548797;Chisinau;635994;Yes;0.711;33846;105;2;5032;2;Yes;Yes;No;Yes;No;No;Yes;Yes;Yes;Landlocked;No;Yes;No;No;Yes;Yes;No;No;No;No;No;No;No
 Monaco;Europe;38682;Monaco;32965;Yes;NA;2.02;19160.4;1;NA;0;No;Yes;No;Yes;No;No;Yes;Yes;Yes;4;No;No;No;No;No;No;No;No;No;No;No;No;Yes
-Mongolia;East Asia;3305039;Ulaanbaatar;1374000;Yes;0.737;1564116;2.1;2;4544;26;Yes;Yes;Yes;No;No;No;Yes;No;Yes;Landlocked;No;No;No;No;Yes;Yes;No;No;No;No;No;No;No
-Montenegro;Europe;622359;Podgorica;169132;Yes;0.814;13812;45.1;4;17651;0;Yes;Yes;No;Yes;No;No;Yes;No;Yes;294;No;No;No;No;Yes;Yes;No;No;No;No;No;No;No
-Morocco;North Africa;36910560;Rabat;577827;No;0.686;446550;82.7;3;3199;25;No;Yes;Yes;Yes;Yes;No;Yes;Yes;Yes;1835;No;No;No;No;Yes;Yes;No;No;No;No;No;No;Yes
-Mozambique;East Africa;31255435;Maputo;1116123;Yes;0.456;801590;39;6;502;10;No;Yes;No;Yes;No;No;Yes;Yes;No;2470;No;No;No;No;Yes;Yes;No;No;No;No;No;No;No
-Myanmar;Southeast Asia;54774619;Naypyidaw;1157425;No;0.583;676578;81;5;4874;8;No;Yes;Yes;Yes;No;No;Yes;No;Yes;1930;No;No;No;No;Yes;Yes;No;No;No;No;No;No;No
-Namibia;Southern Africa;2609126;Windhoek;431000;Yes;0.645;825615;3.2;4;11146;4;No;Yes;Yes;No;No;No;Yes;Yes;Yes;1572;No;No;No;No;Yes;Yes;No;No;No;No;No;No;No
+Mongolia;East Asia;3305339;Ulaanbaatar;1374000;Yes;0.737;1564116;2.1;2;4544;26;Yes;Yes;Yes;No;No;No;Yes;No;Yes;Landlocked;No;No;No;No;Yes;Yes;No;No;No;No;No;No;No
+Montenegro;Europe;622359359;Podgorica;169132;Yes;0.814;13812;45.1;4;17651;0;Yes;Yes;No;Yes;No;No;Yes;No;Yes;294;No;No;No;No;Yes;Yes;No;No;No;No;No;No;No
+Morocco;North Africa;36910660;Rabat;577827;No;0.686;446550;82.7;3;3199;25;No;Yes;Yes;Yes;Yes;No;Yes;Yes;Yes;1835;No;No;No;No;Yes;Yes;No;No;No;No;No;No;Yes
+Mozambique;East Africa;31255455;Maputo;1116123;Yes;0.456;801590;39;6;502;10;No;Yes;No;Yes;No;No;Yes;Yes;No;2470;No;No;No;No;Yes;Yes;No;No;No;No;No;No;No
+Myanmar;Southeast Asia;54774119;Naypyidaw;1157425;No;0.583;676578;81;5;4874;8;No;Yes;Yes;Yes;No;No;Yes;No;Yes;1930;No;No;No;No;Yes;Yes;No;No;No;No;No;No;No
+Namibia;Southern Africa;2609626;Windhoek;431000;Yes;0.645;825615;3.2;4;11146;4;No;Yes;Yes;No;No;No;Yes;Yes;Yes;1572;No;No;No;No;Yes;Yes;No;No;No;No;No;No;No
 Nauru;Oceania;10860;Yaren;1100;Yes;NA;21;517.1;0;NA;0;No;Yes;Yes;Yes;No;No;No;No;Yes;30;No;No;No;No;Yes;Yes;No;No;No;No;No;No;No
 Nepal;South Asia;29609623;Kathmandu;1425000;Yes;0.574;147181;201.1;2;1060;0;No;Yes;Yes;No;No;No;Yes;Yes;Yes;Landlocked;No;No;No;No;Yes;Yes;No;No;No;No;No;No;No
-Netherlands;Europe;17042495;Amsterdam (official);873555;Yes;0.944;41543;409.9;3;55655;285;Yes;Yes;No;Yes;Yes;Yes;Yes;Yes;Yes;451;Yes;No;No;Yes;Yes;Yes;Yes;No;No;No;No;No;No
-Netherlands;Europe;17042495;The Hague (seat of government);544766;Yes;0.944;41543;409.9;3;55655;285;Yes;Yes;No;Yes;Yes;Yes;Yes;Yes;Yes;451;Yes;No;No;Yes;Yes;Yes;Yes;No;No;No;No;No;No
+Netherlands;Europe;17042095;Amsterdam (official);873555;Yes;0.944;41543;409.9;3;55655;285;Yes;Yes;No;Yes;Yes;Yes;Yes;Yes;Yes;451;Yes;No;No;Yes;Yes;Yes;Yes;No;No;No;No;No;No
+Netherlands;Europe;17042095;The Hague (seat of government);544766;Yes;0.944;41543;409.9;3;55655;285;Yes;Yes;No;Yes;Yes;Yes;Yes;Yes;Yes;451;Yes;No;No;Yes;Yes;Yes;Yes;No;No;No;No;No;No
 New Zealand;Oceania;4830638;Wellington;418500;No;0.931;270467;17.9;0;39307;130;No;Yes;No;Yes;Yes;Yes;Yes;Yes;Yes;15160;No;No;Yes;No;No;Yes;No;No;No;No;No;No;No
-Nicaragua;Central America;6259890;Managua;1245741;Yes;0.658;130373;48.0;2;2282;3;No;Yes;Yes;Yes;No;No;Yes;No;Yes;910;No;No;No;No;Yes;Yes;No;No;No;No;No;No;No
-Niger;West Africa;24420248;Niamey;1161432;Yes;0.394;1267000;19.3;7;378;1;No;Yes;No;No;No;No;Yes;Yes;No;Landlocked;No;No;No;No;Yes;Yes;No;No;No;No;No;No;No
+Nicaragua;Central America;6259890890;Managua;1245741;Yes;0.658;130373;48.0;2;2282;3;No;Yes;Yes;Yes;No;No;Yes;No;Yes;910;No;No;No;No;Yes;Yes;No;No;No;No;No;No;No
+Niger;West Africa;24420448;Niamey;1161432;Yes;0.394;1267000;19.3;7;378;1;No;Yes;No;No;No;No;Yes;Yes;No;Landlocked;No;No;No;No;Yes;Yes;No;No;No;No;No;No;No
 Nigeria;West Africa;211400708;Abuja;1235880;No;0.539;923768;228.8;4;5399;26;No;Yes;Yes;Yes;No;No;Yes;Yes;Yes;853;No;No;No;No;Yes;Yes;Yes;No;No;No;No;No;No
-North Korea;East Asia;25778816;Pyongyang;2900000;Yes;NA;120538;214.0;3;NA;56;Yes;Yes;No;No;No;No;Yes;No;Yes;2495;No;Yes;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No
+North Korea;East Asia;25778716;Pyongyang;2900000;Yes;NA;120538;214.0;3;NA;56;Yes;Yes;No;No;No;No;Yes;No;Yes;2495;No;Yes;No;No;Yes;Yes;No;No;No;No;Yes;Yes;No
 North Macedonia;Europe;2082958;Skopje;545500;Yes;0.774;25713;80.9;3;6663;1;Yes;Yes;Yes;No;No;No;Yes;Yes;Yes;Landlocked;No;No;No;No;Yes;Yes;No;No;No;No;No;No;No
-Norway;Europe;5511241;Oslo;693494;Yes;0.957;385207;14.3;3;75274;152;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;83394;No;Yes;No;No;Yes;Yes;Yes;No;No;No;No;No;Yes
-Oman;Middle East;5219721;Muscat;797000;Yes;0.821;309500;16.9;3;15177;3;No;Yes;Yes;Yes;No;No;Yes;No;Yes;2092;No;No;No;No;Yes;Yes;No;No;No;No;No;No;Yes
-Pakistan;South Asia;231506000;Islamabad;1014825;No;0.557;881913;262.5;4;1508;10;No;Yes;Yes;No;No;No;Yes;No;Yes;1046;No;No;No;No;Yes;Yes;No;No;No;No;No;Yes;No
+Norway;Europe;5511541;Oslo;693494;Yes;0.957;385207;14.3;3;75274;152;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;83394;No;Yes;No;No;Yes;Yes;Yes;No;No;No;No;No;Yes
+Oman;Middle East;5219221;Muscat;797000;Yes;0.821;309500;16.9;3;15177;3;No;Yes;Yes;Yes;No;No;Yes;No;Yes;2092;No;No;No;No;Yes;Yes;No;No;No;No;No;No;Yes
+Pakistan;South Asia;231506006;Islamabad;1014825;No;0.557;881913;262.5;4;1508;10;No;Yes;Yes;No;No;No;Yes;No;Yes;1046;No;No;No;No;Yes;Yes;No;No;No;No;No;Yes;No
 Palau;Oceania;18092;Ngerulmud;391;No;NA;459;39.4;0;NA;0;No;Yes;Yes;No;No;No;No;No;Yes;151;No;Yes;No;No;No;No;No;No;No;No;No;No;No
-Palestine;Middle East;5229343;Ramallah;27020;No;NA;NA;NA;4;NA;1;No;Yes;Yes;Yes;No;No;Yes;No;Yes;225;No;No;No;No;No;Yes;No;No;No;No;No;No;No
-Panama;Central America;4426740;Panama City;880691;Yes;0.815;75417;58.7;2;16802;7;No;Yes;Yes;Yes;No;No;Yes;No;Yes;2490;No;No;No;No;Yes;Yes;No;No;No;No;No;No;No
+Palestine;Middle East;5229343343;Ramallah;27020;No;NA;NA;NA;4;NA;1;No;Yes;Yes;Yes;No;No;Yes;No;Yes;225;No;No;No;No;No;Yes;No;No;No;No;No;No;No
+Panama;Central America;4426440;Panama City;880691;Yes;0.815;75417;58.7;2;16802;7;No;Yes;Yes;Yes;No;No;Yes;No;Yes;2490;No;No;No;No;Yes;Yes;No;No;No;No;No;No;No
 Papua New Guinea;Oceania;8947024;Port Moresby;364125;Yes;0.544;462840;19.3;1;2555;0;No;Yes;Yes;No;No;No;Yes;Yes;Yes;5152;No;No;No;No;Yes;Yes;No;No;No;No;No;No;No
-Paraguay;South America;7171946;Asunción;521815;Yes;0.708;406752;17.6;3;6207;0;No;Yes;Yes;No;No;No;Yes;No;Yes;Landlocked;No;No;No;No;Yes;Yes;No;No;No;No;No;No;No
-Peru;South America;33428991;Lima;9843938;Yes;0.777;1285216;26.0;5;6873;4;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;2414;No;No;No;No;Yes;Yes;No;No;No;No;No;No;No
-Philippines;Southeast Asia;113227300;Manila;1780148;No;0.718;300000;377.4;4;3529;10;No;Yes;Yes;Yes;No;No;Yes;No;Yes;3629;No;No;No;No;Yes;Yes;No;No;No;No;No;No;Yes
-Poland;Europe;37846713;Warsaw;1793579;Yes;0.872;312696;120.9;7;16895;308;Yes;Yes;No;Yes;No;No;Yes;Yes;Yes;440;No;Yes;No;No;Yes;Yes;Yes;No;No;No;No;No;Yes
-Portugal;Europe;10196709;Lisbon;505526;Yes;0.864;92090;111.0;1;23775;25;No;Yes;No;Yes;Yes;Yes;Yes;Yes;Yes;1793;Yes;No;Yes;Yes;Yes;Yes;No;No;No;No;No;No;Yes
-Qatar;Middle East;2935224;Doha;956460;Yes;0.848;11586;239.5;1;132886;2;No;Yes;Yes;Yes;No;No;Yes;No;Yes;563;No;No;No;No;Yes;Yes;Yes;No;No;No;Yes;No;Yes
-Romania;Europe;19194437;Bucharest;1883425;Yes;0.828;238397;80.5;5;12707;307;Yes;Yes;Yes;Yes;No;No;Yes;Yes;Yes;225;No;No;No;No;Yes;Yes;Yes;No;No;No;No;No;Yes
-Russia;Europe/Asia;145912025;Moscow;12506468;Yes;0.824;17098242;8.5;16;11452;548;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;Yes;37653;No;Yes;No;No;Yes;Yes;Yes;No;No;No;Yes;Yes;Yes
-Rwanda;East Africa;13305839;Kigali;745261;Yes;0.543;26338;504.9;4;776;2;No;Yes;Yes;No;No;No;Yes;Yes;Yes;Landlocked;No;No;No;No;Yes;Yes;No;No;No;No;No;No;No
+Paraguay;South America;7171446;Asunción;521815;Yes;0.708;406752;17.6;3;6207;0;No;Yes;Yes;No;No;No;Yes;No;Yes;Landlocked;No;No;No;No;Yes;Yes;No;No;No;No;No;No;No
+Peru;South America;33428491;Lima;10359169;Yes;0.777;1285216;26.0;5;6873;4;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;2414;No;No;No;No;Yes;Yes;No;No;No;No;No;No;No
+Philippines;Southeast Asia;113223300;Manila;13484462;No;0.718;300000;377.4;4;3529;10;No;Yes;Yes;Yes;No;No;Yes;No;Yes;3629;No;No;No;No;Yes;Yes;No;No;No;No;No;No;Yes
+Poland;Europe;37846313;Warsaw;1793579;Yes;0.872;312696;120.9;7;16895;308;Yes;Yes;No;Yes;No;No;Yes;Yes;Yes;440;No;Yes;No;No;Yes;Yes;Yes;No;No;No;No;No;Yes
+Portugal;Europe;10196709709;Lisbon;2824000;Yes;0.864;92090;111.0;1;23775;25;No;Yes;No;Yes;Yes;Yes;Yes;Yes;Yes;1793;Yes;No;Yes;Yes;Yes;Yes;No;No;No;No;No;No;Yes
+Qatar;Middle East;2935924;Doha;956460;Yes;0.848;11586;239.5;1;132886;2;No;Yes;Yes;Yes;No;No;Yes;No;Yes;563;No;No;No;No;Yes;Yes;Yes;No;No;No;Yes;No;Yes
+Romania;Europe;19194337;Bucharest;2155240;Yes;0.828;238397;80.5;5;12707;307;Yes;Yes;Yes;Yes;No;No;Yes;Yes;Yes;225;No;No;No;No;Yes;Yes;Yes;No;No;No;No;No;Yes
+Russia;Europe/Asia;145912225;Moscow;12655050;Yes;0.824;17098242;8.5;16;11452;548;Yes;Yes;Yes;Yes;Yes;Yes;Yes;No;Yes;37653;No;Yes;No;No;Yes;Yes;Yes;No;No;No;Yes;Yes;Yes
+Rwanda;East Africa;13305939;Kigali;745261;Yes;0.543;26338;504.9;4;776;2;No;Yes;Yes;No;No;No;Yes;Yes;Yes;Landlocked;No;No;No;No;Yes;Yes;No;No;No;No;No;No;No
 Saint Kitts and Nevis;Caribbean;53199;Basseterre;14000;Yes;NA;261;203.8;0;NA;0;No;Yes;Yes;Yes;No;No;No;Yes;Yes;135;No;Yes;No;No;No;Yes;No;No;No;No;No;No;No
-Saint Lucia;Caribbean;184401;Castries;11167;Yes;0.759;617;299.0;0;9373;2;No;Yes;Yes;Yes;No;No;No;Yes;Yes;158;No;No;No;No;No;Yes;No;No;No;No;No;No;No
+Saint Lucia;Caribbean;184404;Castries;11167;Yes;0.759;617;299.0;0;9373;2;No;Yes;Yes;Yes;No;No;No;Yes;Yes;158;No;No;No;No;No;Yes;No;No;No;No;No;No;No
 Saint Vincent and the Grenadines;Caribbean;111263;Kingstown;24516;Yes;NA;389;285.9;0;NA;1;No;Yes;Yes;Yes;No;No;No;Yes;Yes;84;No;No;No;No;No;Yes;No;No;No;No;No;No;No
-Samoa;Oceania;200149;Apia;37150;Yes;0.715;2831;70.7;0;4124;3;No;Yes;Yes;Yes;No;No;No;No;Yes;403;No;Yes;No;No;No;Yes;No;No;No;No;No;No;No
-San Marino;Europe;33931;San Marino;4465;Yes;NA;61;556.1;1;NA;0;No;Yes;No;No;No;No;No;No;Yes;Landlocked;No;Yes;No;No;Yes;Yes;No;No;No;No;No;No;No
+Samoa;Oceania;200249;Apia;37150;Yes;0.715;2831;70.7;0;4124;3;No;Yes;Yes;Yes;No;No;No;No;Yes;403;No;Yes;No;No;No;Yes;No;No;No;No;No;No;No
+San Marino;Europe;33331;San Marino;4465;Yes;NA;61;556.1;1;NA;0;No;Yes;No;No;No;No;No;No;Yes;Landlocked;No;Yes;No;No;Yes;Yes;No;No;No;No;No;No;No
 Sao Tome and Principe;Central Africa;220911;Sao Tome;64900;Yes;NA;964;229.0;0;NA;0;No;Yes;Yes;No;No;No;No;No;Yes;209;No;No;No;No;Yes;Yes;No;No;No;No;No;No;No
-Saudi Arabia;Middle East;35340629;Riyadh;7200000;Yes;0.853;2149690;16.4;8;24310;15;No;Yes;Yes;Yes;No;No;Yes;No;Yes;2640;No;No;No;No;Yes;No;Yes;No;No;No;No;Yes;Yes
-Senegal;West Africa;17956259;Dakar;1146056;Yes;0.505;196722;91.3;5;2278;5;No;Yes;Yes;Yes;No;No;Yes;Yes;Yes;531;No;No;No;No;Yes;Yes;No;No;No;No;No;No;No
-Serbia;Europe;6828504;Belgrade;1233797;Yes;0.806;77474;88.2;8;8245;27;Yes;Yes;Yes;Yes;No;No;Yes;No;Yes;Landlocked;No;Yes;No;No;Yes;Yes;Yes;No;No;No;No;No;No
-Seychelles;East Africa;99737;Victoria;27530;Yes;NA;459;216.9;0;NA;0;No;Yes;Yes;Yes;No;No;No;Yes;Yes;491;No;No;No;No;Yes;Yes;No;No;No;No;No;No;No
-Sierra Leone;West Africa;8227737;Freetown;772873;Yes;0.438;71740;114.7;3;520;0;No;Yes;Yes;Yes;No;No;Yes;No;Yes;402;No;Yes;No;No;Yes;Yes;No;No;No;No;No;No;No
-Singapore;Southeast Asia;5850343;Singapore;5703569;Yes;0.932;728;8039.7;0;103689;0;No;Yes;Yes;Yes;No;No;Yes;No;Yes;193;No;Yes;No;No;No;Yes;Yes;No;No;No;No;No;Yes
-Slovakia;Europe;5460109;Bratislava;424428;Yes;0.845;49037;111.3;5;22375;34;Yes;Yes;No;No;No;No;Yes;Yes;Yes;Landlocked;No;Yes;No;No;Yes;Yes;Yes;No;No;No;No;No;No
-Slovenia;Europe;2078938;Ljubljana;292988;Yes;0.896;20273;102.5;4;27726;22;Yes;Yes;No;Yes;No;No;Yes;Yes;Yes;46;No;Yes;No;No;Yes;Yes;No;No;No;No;No;No;No
+Saudi Arabia;Middle East;35345629;Riyadh;7200000;Yes;0.853;2149690;16.4;8;24310;15;No;Yes;Yes;Yes;No;No;Yes;No;Yes;2640;No;No;No;No;Yes;No;Yes;No;No;No;No;Yes;Yes
+Senegal;West Africa;17956559;Dakar;1146056;Yes;0.505;196722;91.3;5;2278;5;No;Yes;Yes;Yes;No;No;Yes;Yes;Yes;531;No;No;No;No;Yes;Yes;No;No;No;No;No;No;No
+Serbia;Europe;6828804;Belgrade;1233797;Yes;0.806;77474;88.2;8;8245;27;Yes;Yes;Yes;Yes;No;No;Yes;No;Yes;Landlocked;No;Yes;No;No;Yes;Yes;Yes;No;No;No;No;No;No
+Seychelles;East Africa;99337;Victoria;27530;Yes;NA;459;216.9;0;NA;0;No;Yes;Yes;Yes;No;No;No;Yes;Yes;491;No;No;No;No;Yes;Yes;No;No;No;No;No;No;No
+Sierra Leone;West Africa;8227237;Freetown;772873;Yes;0.438;71740;114.7;3;520;0;No;Yes;Yes;Yes;No;No;Yes;No;Yes;402;No;Yes;No;No;Yes;Yes;No;No;No;No;No;No;No
+Singapore;Southeast Asia;5850343343;Singapore;5703569;Yes;0.932;728;8039.7;0;103689;0;No;Yes;Yes;Yes;No;No;Yes;No;Yes;193;No;Yes;No;No;No;Yes;Yes;No;No;No;No;No;Yes
+Slovakia;Europe;5460009;Bratislava;424428;Yes;0.845;49037;111.3;5;22375;34;Yes;Yes;No;No;No;No;Yes;Yes;Yes;Landlocked;No;Yes;No;No;Yes;Yes;Yes;No;No;No;No;No;No
+Slovenia;Europe;2078338;Ljubljana;292988;Yes;0.896;20273;102.5;4;27726;22;Yes;Yes;No;Yes;No;No;Yes;Yes;Yes;46;No;Yes;No;No;Yes;Yes;No;No;No;No;No;No;No
 Solomon Islands;Oceania;715116;Honiara;64301;Yes;NA;28896;24.7;0;NA;0;No;Yes;Yes;No;No;No;No;No;Yes;5313;No;Yes;No;No;No;Yes;No;No;No;No;No;No;No
-Somalia;East Africa;17409953;Mogadishu;2587183;Yes;NA;637657;26.7;4;NA;0;No;Yes;Yes;Yes;No;No;No;No;Yes;3025;No;No;No;No;Yes;Yes;No;No;No;No;No;No;No
-South Africa;Southern Africa;60041958;Pretoria (executive);741651;No;0.705;1221037;49.2;6;12294;86;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;2798;No;Yes;Yes;No;Yes;Yes;Yes;No;No;No;No;No;Yes
-South Africa;Southern Africa;60041958;Bloemfontein (judicial);257381;No;0.705;1221037;49.2;6;12294;86;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;2798;No;Yes;Yes;No;Yes;Yes;Yes;No;No;No;No;No;Yes
-South Africa;Southern Africa;60041958;Cape Town (legislative);433688;No;0.705;1221037;49.2;6;12294;86;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;2798;No;Yes;Yes;No;Yes;Yes;Yes;No;No;No;No;No;Yes
-South Korea;East Asia;51780579;Seoul;9758483;Yes;0.916;100210;517.1;1;46411;320;No;Yes;No;Yes;Yes;Yes;Yes;No;Yes;2413;No;Yes;Yes;No;No;Yes;Yes;No;No;No;No;No;Yes
-South Sudan;East Africa;11484000;Juba;526000;Yes;NA;644329;17.8;6;NA;0;No;Yes;Yes;No;No;No;No;No;Yes;Landlocked;No;No;No;No;Yes;Yes;No;No;No;No;No;No;No
-Spain;Europe;47329981;Madrid;3207247;Yes;0.904;505992;93.6;5;32391;161;No;Yes;No;Yes;Yes;Yes;Yes;Yes;Yes;4964;No;No;Yes;Yes;Yes;Yes;Yes;No;No;No;No;No;Yes
-Sri Lanka;South Asia;22539600;Sri Jayawardenepura Kotte (official);115826;Yes;0.783;65610;343.4;1;4525;2;No;Yes;Yes;No;No;No;Yes;Yes;Yes;1340;No;Yes;No;No;No;Yes;No;No;No;No;No;No;Yes
-Sri Lanka;South Asia;22539600;Colombo (executive and judicial);561935;Yes;0.783;65610;343.4;1;4525;2;No;Yes;Yes;No;No;No;Yes;Yes;Yes;1340;No;Yes;No;No;No;Yes;No;No;No;No;No;No;Yes
-Sudan;North Africa;44909353;Khartoum;5647066;Yes;NA;1886068;23.8;7;NA;0;Yes;Yes;No;No;No;No;Yes;No;Yes;Landlocked;No;No;No;No;Yes;Yes;No;No;No;No;No;No;No
-Suriname;South America;593381;Paramaribo;240924;Yes;0.738;163820;3.6;2;6420;2;No;Yes;Yes;No;No;No;No;No;Yes;386;No;Yes;No;No;No;Yes;No;No;No;No;No;No;No
-Sweden;Europe;10099265;Stockholm;973261;Yes;0.945;450295;22.4;2;55660;611;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;3218;No;No;Yes;Yes;Yes;Yes;Yes;No;No;No;No;No;Yes
-Switzerland;Europe;8715490;Bern;142493;No;0.955;41284;211.0;5;80801;195;No;Yes;No;No;Yes;Yes;Yes;Yes;Yes;Landlocked;No;No;No;Yes;Yes;Yes;Yes;No;No;No;No;No;Yes
-Syria;Middle East;17500658;Damascus;1573985;Yes;NA;185180;94.5;6;NA;3;No;Yes;Yes;Yes;No;No;Yes;No;Yes;193;No;No;No;No;Yes;Yes;No;No;No;No;No;No;No
-Taiwan;East Asia;23816775;Taipei;2641312;No;NA;36193;657.9;2;NA;32;No;Yes;No;No;No;No;Yes;No;Yes;1566;No;No;No;No;No;Yes;No;No;No;No;No;No;Yes
-Tajikistan;Central Asia;9537645;Dushanbe;802700;Yes;NA;143100;66.7;4;NA;4;Yes;Yes;Yes;No;No;No;Yes;Yes;Yes;Landlocked;No;Yes;No;No;Yes;Yes;No;No;No;No;No;No;No
-Tanzania;East Africa;64006542;Dodoma (official);410956;Yes;0.529;947300;67.6;8;1083;2;No;Yes;Yes;No;No;No;Yes;Yes;Yes;1424;No;No;No;No;Yes;Yes;No;No;No;No;No;No;No
-Tanzania;East Africa;64006542;Dar es Salaam (largest city and de facto capital);5427016;Yes;0.529;947300;67.6;8;1083;2;No;Yes;Yes;No;No;No;Yes;Yes;Yes;1424;No;No;No;No;Yes;Yes;No;No;No;No;No;No;No
-Thailand;Southeast Asia;69830779;Bangkok;8371852;Yes;0.755;513120;135.9;4;7223;33;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;3219;No;Yes;No;No;No;Yes;Yes;No;No;No;No;No;Yes
-Timor-Leste;Southeast Asia;1387149;Dili;234331;Yes;NA;14874;93.3;1;NA;0;No;Yes;Yes;Yes;No;No;No;No;Yes;706;No;No;No;No;Yes;Yes;No;No;No;No;No;No;No
-Togo;West Africa;8278724;Lomé;837437;Yes;0.515;56785;145.7;3;762;1;No;Yes;Yes;No;No;No;Yes;Yes;Yes;216;No;No;No;No;Yes;Yes;No;No;No;No;No;No;No
-Tonga;Oceania;105695;Nuku'alofa;24298;Yes;NA;747;141.5;0;NA;1;No;Yes;Yes;No;No;No;No;Yes;Yes;419;No;No;No;No;Yes;Yes;No;No;No;No;No;No;No
+Somalia;East Africa;17409553;Mogadishu;2587183;Yes;NA;637657;26.7;4;NA;0;No;Yes;Yes;Yes;No;No;No;No;Yes;3025;No;No;No;No;Yes;Yes;No;No;No;No;No;No;No
+South Africa;Southern Africa;60040958;Pretoria (executive);2345908;No;0.705;1221037;49.2;6;12294;86;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;2798;No;Yes;Yes;No;Yes;Yes;Yes;No;No;No;No;No;Yes
+South Africa;Southern Africa;60040958;Bloemfontein (judicial);556000;No;0.705;1221037;49.2;6;12294;86;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;2798;No;Yes;Yes;No;Yes;Yes;Yes;No;No;No;No;No;Yes
+South Africa;Southern Africa;60040958;Cape Town (legislative);4710000;No;0.705;1221037;49.2;6;12294;86;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;2798;No;Yes;Yes;No;Yes;Yes;Yes;No;No;No;No;No;Yes
+South Korea;East Asia;51780779;Seoul;25674800;Yes;0.916;100210;517.1;1;46411;320;No;Yes;No;Yes;Yes;Yes;Yes;No;Yes;2413;No;Yes;Yes;No;No;Yes;Yes;No;No;No;No;No;Yes
+South Sudan;East Africa;11484400;Juba;526000;Yes;NA;644329;17.8;6;NA;0;No;Yes;Yes;No;No;No;No;No;Yes;Landlocked;No;No;No;No;Yes;Yes;No;No;No;No;No;No;No
+Spain;Europe;47329381;Madrid;6668865;Yes;0.904;505992;93.6;5;32391;161;No;Yes;No;Yes;Yes;Yes;Yes;Yes;Yes;4964;No;No;Yes;Yes;Yes;Yes;Yes;No;No;No;No;No;Yes
+Sri Lanka;South Asia;22539609;Sri Jayawardenepura Kotte (official);115826;Yes;0.783;65610;343.4;1;4525;2;No;Yes;Yes;No;No;No;Yes;Yes;Yes;1340;No;Yes;No;No;No;Yes;No;No;No;No;No;No;Yes
+Sri Lanka;South Asia;22539609;Colombo (executive and judicial);561935;Yes;0.783;65610;343.4;1;4525;2;No;Yes;Yes;No;No;No;Yes;Yes;Yes;1340;No;Yes;No;No;No;Yes;No;No;No;No;No;No;Yes
+Sudan;North Africa;44909953;Khartoum;5647066;Yes;NA;1886068;23.8;7;NA;0;Yes;Yes;No;No;No;No;Yes;No;Yes;Landlocked;No;No;No;No;Yes;Yes;No;No;No;No;No;No;No
+Suriname;South America;593181;Paramaribo;240924;Yes;0.738;163820;3.6;2;6420;2;No;Yes;Yes;No;No;No;No;No;Yes;386;No;Yes;No;No;No;Yes;No;No;No;No;No;No;No
+Sweden;Europe;10099565;Stockholm;973261;Yes;0.945;450295;22.4;2;55660;611;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;3218;No;No;Yes;Yes;Yes;Yes;Yes;No;No;No;No;No;Yes
+Switzerland;Europe;8715410;Bern;142493;No;0.955;41284;211.0;5;80801;195;No;Yes;No;No;Yes;Yes;Yes;Yes;Yes;Landlocked;No;No;No;Yes;Yes;Yes;Yes;No;No;No;No;No;Yes
+Syria;Middle East;17500558;Damascus;1573985;Yes;NA;185180;94.5;6;NA;3;No;Yes;Yes;Yes;No;No;Yes;No;Yes;193;No;No;No;No;Yes;Yes;No;No;No;No;No;No;No
+Taiwan;East Asia;23816575;Taipei;2641312;No;NA;36193;657.9;2;NA;32;No;Yes;No;No;No;No;Yes;No;Yes;1566;No;No;No;No;No;Yes;No;No;No;No;No;No;Yes
+Tajikistan;Central Asia;9537647;Dushanbe;802700;Yes;NA;143100;66.7;4;NA;4;Yes;Yes;Yes;No;No;No;Yes;Yes;Yes;Landlocked;No;Yes;No;No;Yes;Yes;No;No;No;No;No;No;No
+Tanzania;East Africa;64006542542;Dodoma (official);410956;Yes;0.529;947300;67.6;8;1083;2;No;Yes;Yes;No;No;No;Yes;Yes;Yes;1424;No;No;No;No;Yes;Yes;No;No;No;No;No;No;No
+Tanzania;East Africa;64006542542;Dar es Salaam (largest city and de facto capital);7047661;Yes;0.529;947300;67.6;8;1083;2;No;Yes;Yes;No;No;No;Yes;Yes;Yes;1424;No;No;No;No;Yes;Yes;No;No;No;No;No;No;No
+Thailand;Southeast Asia;69830779779;Bangkok;10539415;Yes;0.755;513120;135.9;4;7223;33;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;3219;No;Yes;No;No;No;Yes;Yes;No;No;No;No;No;Yes
+Timor-Leste;Southeast Asia;1387189;Dili;277279;Yes;NA;14874;93.3;1;NA;0;No;Yes;Yes;Yes;No;No;No;No;Yes;706;No;No;No;No;Yes;Yes;No;No;No;No;No;No;No
+Togo;West Africa;8278224;Lomé;837437;Yes;0.515;56785;145.7;3;762;1;No;Yes;Yes;No;No;No;Yes;Yes;Yes;216;No;No;No;No;Yes;Yes;No;No;No;No;No;No;No
+Tonga;Oceania;105195;Nuku'alofa;24298;Yes;NA;747;141.5;0;NA;1;No;Yes;Yes;No;No;No;No;Yes;Yes;419;No;No;No;No;Yes;Yes;No;No;No;No;No;No;No
 Trinidad and Tobago;Caribbean;1399488;Port of Spain;374000;No;0.780;5130;272.7;1;30490;19;No;Yes;Yes;No;No;No;Yes;Yes;Yes;362;No;Yes;No;No;No;Yes;No;No;No;No;No;No;No
-Tunisia;North Africa;11935121;Tunis;638845;Yes;0.748;163610;72.9;2;4282;13;No;Yes;Yes;Yes;No;No;Yes;Yes;Yes;1146;No;No;No;No;Yes;Yes;No;No;No;No;No;No;No
-Turkey;Europe/Asia;85450708;Ankara;5445026;No;0.820;783356;109.1;8;11498;98;No;Yes;Yes;Yes;Yes;Yes;Yes;No;Yes;7200;No;Yes;No;No;Yes;Yes;Yes;No;No;No;No;No;Yes
-Turkmenistan;Central Asia;5942089;Ashgabat;777000;Yes;NA;488100;12.2;5;NA;10;Yes;Yes;Yes;No;No;No;Yes;No;Yes;Landlocked;No;Yes;No;No;Yes;Yes;No;No;No;No;No;No;No
+Tunisia;North Africa;11935221;Tunis;638845;Yes;0.748;163610;72.9;2;4282;13;No;Yes;Yes;Yes;No;No;Yes;Yes;Yes;1146;No;No;No;No;Yes;Yes;No;No;No;No;No;No;No
+Turkey;Europe/Asia;85450808;Ankara;5445026;No;0.820;783356;109.1;8;11498;98;No;Yes;Yes;Yes;Yes;Yes;Yes;No;Yes;7200;No;Yes;No;No;Yes;Yes;Yes;No;No;No;No;No;Yes
+Turkmenistan;Central Asia;5942989;Ashgabat;777000;Yes;NA;488100;12.2;5;NA;10;Yes;Yes;Yes;No;No;No;Yes;No;Yes;Landlocked;No;Yes;No;No;Yes;Yes;No;No;No;No;No;No;No
 Tuvalu;Oceania;11792;Funafuti;4492;Yes;NA;26;453.8;0;NA;0;No;Yes;Yes;No;No;No;No;Yes;Yes;24;No;Yes;No;No;Yes;No;No;No;No;No;No;No;No
 Uganda;East Africa;45741000;Kampala;1547084;Yes;0.544;241550;189.3;5;2463;7;No;Yes;Yes;No;No;No;Yes;Yes;Yes;Landlocked;No;Yes;No;No;Yes;Yes;No;No;No;No;No;No;No
-Ukraine;Europe;43733762;Kyiv;2883816;Yes;0.779;603500;72.4;7;4122;464;Yes;Yes;No;Yes;Yes;Yes;Yes;No;Yes;2780;No;Yes;No;No;Yes;Yes;Yes;No;No;No;Yes;Yes;No
+Ukraine;Europe;43733662;Kyiv;2883816;Yes;0.779;603500;72.4;7;4122;464;Yes;Yes;No;Yes;Yes;Yes;Yes;No;Yes;2780;No;Yes;No;No;Yes;Yes;Yes;No;No;No;Yes;Yes;No
 United Arab Emirates;Middle East;9890400;Abu Dhabi;1490000;No;NA;83600;118.2;5;NA;3;No;Yes;Yes;Yes;Yes;No;Yes;No;Yes;1318;No;No;No;No;No;Yes;Yes;No;No;No;No;No;Yes
-United Kingdom;Europe;68207116;London;9304016;Yes;0.932;243610;280.0;3;39720;851;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;12429;No;No;Yes;Yes;Yes;Yes;Yes;No;No;No;No;Yes;Yes
-United States;North America;331002651;Washington, D.C.;705749;No;0.926;9833517;35.6;2;65112;2647;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;19924;No;No;Yes;No;Yes;No;Yes;Yes;No;Yes;Yes;Yes;Yes
-Uruguay;South America;3473727;Montevideo;1305000;Yes;0.817;181034;19.2;3;17399;10;No;Yes;Yes;No;Yes;Yes;Yes;Yes;Yes;660;No;Yes;No;No;No;Yes;No;No;No;No;No;No;No
-Uzbekistan;Central Asia;33469203;Tashkent;2208980;Yes;NA;447400;74.8;5;NA;31;Yes;Yes;Yes;No;No;No;Yes;No;Yes;Landlocked;No;Yes;No;No;Yes;Yes;No;No;No;No;No;Yes;No
-Vanuatu;Oceania;307145;Port Vila;44040;Yes;NA;12189;25.2;0;NA;0;No;Yes;Yes;Yes;No;No;No;Yes;Yes;2528;No;Yes;No;No;Yes;Yes;No;No;No;No;No;No;No
-Vatican City;Europe;801;Vatican City;1000;Yes;NA;0.49;1634.7;1;NA;0;No;Yes;No;No;No;No;No;No;Yes;Landlocked;Yes;Yes;No;No;Yes;Yes;No;No;No;No;No;No;No
-Venezuela;South America;28435940;Caracas;1943901;Yes;0.711;916445;31.0;3;11436;16;No;Yes;Yes;No;No;No;Yes;No;Yes;2800;No;Yes;No;No;Yes;Yes;No;No;No;No;No;No;No
-Vietnam;Southeast Asia;97338579;Hanoi;7784345;No;0.704;331212;293.8;3;2719;5;No;Yes;Yes;No;No;No;Yes;No;Yes;3444;No;Yes;No;No;Yes;Yes;No;No;No;No;No;No;Yes
-Yemen;Middle East;29825968;Sana'a;2018980;Yes;NA;527968;56.5;6;NA;3;No;Yes;Yes;Yes;No;No;Yes;No;Yes;1906;No;No;No;No;Yes;No;No;No;No;No;No;No;No
-Zambia;East Africa;18383955;Lusaka;1750000;Yes;0.584;752612;24.4;8;1305;0;No;Yes;Yes;No;No;No;Yes;Yes;Yes;Landlocked;No;Yes;No;No;Yes;Yes;No;No;No;No;No;No;No
-Zimbabwe;East Africa;14862927;Harare;1446000;Yes;0.571;390757;37.9;4;1463;8;No;Yes;Yes;No;No;No;Yes;Yes;Yes;Landlocked;No;Yes;No;No;Yes;Yes;No;No;No;No;No;No;No
+United Kingdom;Europe;68207116;London;9002488;Yes;0.932;243610;280.0;3;39720;851;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;12429;No;No;Yes;Yes;Yes;Yes;Yes;No;No;No;No;Yes;Yes
+United States;North America;331302651;Washington, D.C.;714153;No;0.926;9833517;35.6;2;65112;2647;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Yes;19924;No;No;Yes;No;Yes;No;Yes;Yes;No;Yes;Yes;Yes;Yes
+Uruguay;South America;3473727;Montevideo;1319108;Yes;0.817;181034;19.2;3;17399;10;No;Yes;Yes;No;Yes;Yes;Yes;Yes;Yes;660;No;Yes;No;No;No;Yes;No;No;No;No;No;No;No
+Uzbekistan;Central Asia;33469263;Tashkent;2208980;Yes;NA;447400;74.8;5;NA;31;Yes;Yes;Yes;No;No;No;Yes;No;Yes;Landlocked;No;Yes;No;No;Yes;Yes;No;No;No;No;No;Yes;No
+Vanuatu;Oceania;307345;Port Vila;44040;Yes;NA;12189;25.2;0;NA;0;No;Yes;Yes;Yes;No;No;No;Yes;Yes;2528;No;Yes;No;No;Yes;Yes;No;No;No;No;No;No;No
+Vatican City;Europe;825;Vatican City;825;Yes;NA;0.49;1634.7;1;NA;0;No;Yes;No;No;No;No;No;No;Yes;Landlocked;Yes;Yes;No;No;Yes;Yes;No;No;No;No;No;No;No
+Venezuela;South America;28435945;Caracas;1943901;Yes;0.711;916445;31.0;3;11436;16;No;Yes;Yes;No;No;No;Yes;No;Yes;2800;No;Yes;No;No;Yes;Yes;No;No;No;No;No;No;No
+Vietnam;Southeast Asia;97338779;Hanoi;7784345;No;0.704;331212;293.8;3;2719;5;No;Yes;Yes;No;No;No;Yes;No;Yes;3444;No;Yes;No;No;Yes;Yes;No;No;No;No;No;No;Yes
+Yemen;Middle East;29825868;Sana'a;2018980;Yes;NA;527968;56.5;6;NA;3;No;Yes;Yes;Yes;No;No;Yes;No;Yes;1906;No;No;No;No;Yes;No;No;No;No;No;No;No;No
+Zambia;East Africa;18383555;Lusaka;1750000;Yes;0.584;752612;24.4;8;1305;0;No;Yes;Yes;No;No;No;Yes;Yes;Yes;Landlocked;No;Yes;No;No;Yes;Yes;No;No;No;No;No;No;No
+Zimbabwe;East Africa;14862927927;Harare;1446000;Yes;0.571;390757;37.9;4;1463;8;No;Yes;Yes;No;No;No;Yes;Yes;Yes;Landlocked;No;Yes;No;No;Yes;Yes;No;No;No;No;No;No;No
