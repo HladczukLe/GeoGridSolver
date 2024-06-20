@@ -94,11 +94,11 @@ That was my game board in June 10th:
 
 This code does not choose the best country to guess, it just lists all countries in the chosen categories.
 
-[^1]: There are some categories unavailable in database (example: Flag with color)
+[^1]: There are some categories unavailable in database (example: Flag with color) and some data may be wrong.
 
 [^2]: Regions avaible and countries count:
 
-    Caribbean          13
+    Caribbean          13 (can be considered as 'North America' by the game)
     Central Africa      7
     Central America     7
     Central Asia        4
